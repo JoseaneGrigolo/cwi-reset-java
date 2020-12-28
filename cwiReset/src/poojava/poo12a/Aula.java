@@ -1,7 +1,7 @@
 package poojava.poo12a;
 /*
 Aula 12 - polimorfismo
-Aula 13 - poliformismo sobrecarga
+Aula 13 - polimorfismo sobrecarga
 Aula 14 - questões concurso
  */
 public class Aula {
