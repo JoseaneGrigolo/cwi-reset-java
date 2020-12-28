@@ -1,4 +1,4 @@
-package poojava.poo11b;
+package poojava.poo11a;
 // Aula 11 - herança
 public class Aula {
 

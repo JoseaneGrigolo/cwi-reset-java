@@ -1,4 +1,4 @@
-package poojava.poo11b;
+package poojava.poo11a;
 // final não pode ter filhos
 
 public class Aluno extends Pessoa{

@@ -1,4 +1,4 @@
-package poojava.poo11b;
+package poojava.poo11a;
 
 public class Bolsista extends Aluno{
     private double bolsa;
